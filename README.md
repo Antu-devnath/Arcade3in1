@@ -84,28 +84,6 @@ This project is a multi-game application built using OpenGL. It includes three g
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/multi-game-app.git
-   cd multi-game-app
-   ```
-
-2. Install the required dependencies (see [Dependencies](#dependencies)).
-
-3. Compile the code using a compatible compiler:
-   ```bash
-   g++ main.cpp -o multi_game_app -lGL -lGLU -lglut
-   ```
-
-4. Run the executable:
-   ```bash
-   ./multi_game_app
-   ```
-
----
-
 ## Usage
 
 - Launch the application.
