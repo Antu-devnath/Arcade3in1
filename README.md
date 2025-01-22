@@ -1,3 +1,42 @@
+# 3 in 1 Arcade Game
+
+**Course:** Computer Graphics  
+**Term:** Fall 2024-25  
+**Section:** F  
+**Group:** 11  
+
+## Project Overview
+
+We are developing a single-player game using OpenGL, inspired by classics like Agent XIAO: The Shooting Game, Pac-Man, and Breakout. Built with C++ and GLUT, the project features smooth gameplay, dynamic graphics, real-time collision detection, particle effects, and intuitive controls.
+
+### Key Highlights:
+
+- Fast-paced, score-based gameplay.
+- Advanced visual effects and physics integration.
+- Focus on enhancing skills in graphics programming and game mechanics.
+
+This project blends the charm of classic games with modern techniques, delivering an engaging and immersive gaming experience. This project is submitted as part of the course requirements for **Computer Graphics** at the **Faculty of Science and Technology, American International University-Bangladesh**.
+
+## Submitted To
+
+**Instructor:** MAHFUJUR RAHMAN  
+
+## Submitted By
+
+| Name                 | ID         | Email                                                          |
+|----------------------|------------|----------------------------------------------------------------|
+| Rahul Biswas         | 22-49413-3 | [rahulbiswasaiub@gmail.com](mailto:rahulbiswasaiub@gmail.com) |
+| Antu Chandra Devnath | 22-49289-3 | [antu38411@gmail.com](mailto:antu38411@gmail.com)             |
+| Md Moinul Haque      | 22-49403-3 | [moinul@gmail.com](mailto:moinul@gmail.com)                   |
+
+## About
+
+Our OpenGL-based project brings the essence of classic arcade games to life, combining timeless gameplay mechanics with modern graphical enhancements. Drawing inspiration from Agent XIAO: The Shooting Game, Pac-Man, and Breakout, the games are designed as single-player, score-driven challenges that emphasize precision, speed, and engagement.
+
+## Acknowledgments
+
+We extend our gratitude to our instructor, **Mahfujur Rahman**, for guiding us throughout the course and inspiring this project.
+
 # Multi-Game Application
 
 This project is a multi-game application built using OpenGL. It includes three games: Pacman, Breakout, and Xiao Agent. The project provides a menu interface for selecting games and viewing instructions.
