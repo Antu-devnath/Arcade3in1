@@ -142,7 +142,7 @@ void displayInstructions() {
     // Draw instructions text
     const char* instructions[] = {
         "Pacman Controls:",
-        "  - Use W, A, S, D to move.",
+        "  - Use W, A, S, D to move to.",
         "  - Collect food to increase score.",
         "",
         "Breakout Controls:",
